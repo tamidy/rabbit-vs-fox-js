@@ -265,7 +265,7 @@ class PlayerObject {
 	
 	initiateDuck() {
 		if (this.Y == (windowHeight*3)/4) {
-			this.velocity = -20; //Size of the duck 
+			this.velocity = -15; //Size of the duck 
 		}
 	}
 	
